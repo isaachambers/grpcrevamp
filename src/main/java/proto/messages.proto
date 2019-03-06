@@ -1,6 +1,6 @@
  syntax = "proto3";
  
- option java_package = "hello.grpc.grpc.revamp.services";
+ option java_package = "";
  
  message Employee {
  	int32 id = 1;
